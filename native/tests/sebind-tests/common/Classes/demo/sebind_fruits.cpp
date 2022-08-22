@@ -47,7 +47,6 @@ bool Coconut_weight(se::State &s) {
     return true;
 }
 
-
 demo::Coconut *Coconut_create(int, int, int, int) {
     return new demo::Coconut();
 }
